@@ -4,6 +4,19 @@ Mastering in Computer Science
 
 _Federal University of Ceará (UFC) - Brazil_
 
+## About 
+
+Welcome to my page! I'm a 24 years old computer science masters student and software developer. Since I was of young age, I've dreamt about working with computer science. Now, I'm mastering it with passion for artificial intelligence, computer vision, machine learning and anything that can wonderfully evolve computers to push humanity forward. I'm also learning how to produce music!
+
+## Interests
+
+- Artificial intelligence
+- Computer vision
+- Machine learning
+- Data science
+- Software development
+- Music prodution and beatmaking
+
 ## Work experience
 
 **Software developer** aug/2021 - dec/2022<br>
